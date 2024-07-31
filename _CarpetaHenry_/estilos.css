@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+
+.fondo {
+    background-color: red;
+}
+.miTexto {
+    /*font-size: 80px;*/
+    color: green;
+    /*tamaño con relación al tamaño padre*/
+    font-size: 2em;
+}
+
+.logo {
+    width: 300px;
+}
+
+#titulos{
+    font-size: 4em;
+    border: 2px solid black;
+    /*tamaño de la pantalla Viewport width*/
+    width: 60vw;
+    margin: auto;
+    padding: .5em;
+}
